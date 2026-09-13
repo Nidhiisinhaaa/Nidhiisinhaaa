@@ -145,14 +145,6 @@ A real-estate analytics platform for exploring property data, generating insight
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidhiisinhaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
