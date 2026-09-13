@@ -159,15 +159,6 @@ A real-estate analytics platform for exploring property data, generating insight
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nidhiisinhaaa&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhiisinhaaa&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
