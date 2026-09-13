@@ -148,21 +148,19 @@ A real-estate analytics platform for exploring property data, generating insight
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidhiisinhaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Nidhi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhiisinhaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhiisinhaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-----
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nidhiisinhaaa&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Nidhiisinhaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
----
+
+----
+
 
 ## 🤝 Let's Connect
 
